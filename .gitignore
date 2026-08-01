@@ -1,0 +1,7 @@
+# Python bytecode — generated when scripts/merge_verses.py imports chapter_content
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/

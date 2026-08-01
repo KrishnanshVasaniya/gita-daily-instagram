@@ -72,10 +72,23 @@ def wrap_text(draw, text, font, max_width):
     return lines
 
 
-def draw_centered_lines(draw, lines, font, start_y, max_width, fill, line_spacing=1.35):
+def draw_centered_lines(draw, lines, font, start_y, max_width, fill, line_spacing=1.35,
+                        use_font_metrics=False):
+    """Draw centred lines.
+
+    Line height is normally derived from the Latin sample "Ag". That is fine for
+    the English blocks, but it badly under-measures Devanagari, whose lines carry
+    vowel marks above the headline and conjuncts below the baseline — none of
+    which "Ag" contains. Pass use_font_metrics=True for such scripts to derive the
+    height from the font's own ascent + descent, which spans the full glyph box.
+    """
     y = start_y
-    bbox_sample = draw.textbbox((0, 0), "Ag", font=font)
-    line_height = (bbox_sample[3] - bbox_sample[1]) * line_spacing
+    if use_font_metrics:
+        ascent, descent = font.getmetrics()
+        line_height = (ascent + descent) * line_spacing
+    else:
+        bbox_sample = draw.textbbox((0, 0), "Ag", font=font)
+        line_height = (bbox_sample[3] - bbox_sample[1]) * line_spacing
     for line in lines:
         bbox = draw.textbbox((0, 0), line, font=font)
         w = bbox[2] - bbox[0]
@@ -135,7 +148,8 @@ def make_slide_1(verse):
     sans_font, sans_lines = fit_font_to_lines(
         draw, verse["sanskrit"], FONT_DEV_REG, max_width, max_lines=6, start_size=58, min_size=38
     )
-    y = draw_centered_lines(draw, sans_lines, sans_font, y, max_width, TEXT_MAIN, line_spacing=1.4)
+    y = draw_centered_lines(draw, sans_lines, sans_font, y, max_width, TEXT_MAIN,
+                            line_spacing=1.1, use_font_metrics=True)
 
     y += 50
     draw.line([(WIDTH / 2 - 40, y), (WIDTH / 2 + 40, y)], fill=ACCENT, width=2)

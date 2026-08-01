@@ -75,26 +75,46 @@ short explanation on slide 2) to Instagram, fully automated via GitHub Actions.
 
 ---
 
-## Adding more verses
+## Verse content
 
-`data/verses.json` currently ships with 7 sample verses. Add more entries in
-the same shape:
+`data/verses.json` holds the complete Gita — **701 entries covering all 18
+chapters** — and the poster works through them in order, looping back to the
+start once it reaches the end.
 
-```json
-{
-  "chapter": 2,
-  "verse": 47,
-  "sanskrit": "...",
-  "translation": "...",
-  "explanation": "..."
+It is **generated output**. Do not edit it by hand; edits are overwritten on
+the next build. It is produced from two sources:
+
+| Source | What it holds |
+| --- | --- |
+| `data/authoritative.json` | Sanskrit (Devanagari + transliteration) for all 701 verses, from the [gita/gita](https://github.com/gita/gita) dataset |
+| `chapter_content/ch1.py` … `ch18.py` | The original English translation and explanation for each verse |
+
+Each chapter module defines a single dict keyed by verse number:
+
+```python
+CONTENT = {
+    47: {
+        "t": "Your right is to action alone, never to its fruits. ...",
+        "e": "The most quoted verse in the Gita, and the closing line ...",
+    },
 }
 ```
 
-The poster works through the list in order and loops back to the start once
-it reaches the end — so the list can grow over time without breaking
-anything. I'm happy to help draft the remaining verses in batches whenever
-you're ready (all 700 is a big batch — doing it in chunks, say by chapter,
-keeps quality high).
+To revise a verse, edit its `"t"` or `"e"` in the relevant chapter module and
+rebuild:
+
+```bash
+python scripts/merge_verses.py
+```
+
+The build is idempotent — every chapter is regenerated on each run, so it is
+safe to run repeatedly. It pairs each entry with its Sanskrit, normalises the
+verse marker to the `॥४७॥` form, and refuses to write anything if a verse is
+missing content or a module names a verse that does not exist in the dataset.
+
+> **Verse numbering** follows `authoritative.json` throughout. That recension
+> gives Chapter 13 thirty-five verses (some editions have thirty-four), for a
+> total of 701 rather than the commonly cited 700.
 
 ---
 
@@ -102,6 +122,7 @@ keeps quality high).
 
 ```bash
 pip install -r requirements.txt
+python scripts/merge_verses.py       # rebuild data/verses.json from source
 cd scripts
 python daily_post.py                 # generates next verse's images
 python generate_card.py --chapter 2 --verse 47   # generate one verse on demand

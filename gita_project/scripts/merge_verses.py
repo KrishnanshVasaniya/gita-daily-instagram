@@ -3,9 +3,8 @@ Merges the per-chapter translations/explanations in chapter_content/ with the
 Sanskrit in data/authoritative.json, and writes the combined result to
 data/verses.json.
 
-Chapter 1 already exists in verses.json (46 entries, written before this
-pipeline) and is carried through untouched. Chapters 2-18 are rebuilt from
-chapter_content/ch2.py ... ch18.py on every run, so the script is idempotent.
+All 18 chapters are rebuilt from chapter_content/ch1.py ... ch18.py on every
+run, so the script is idempotent and verses.json is fully derived output.
 
 Usage:
     python scripts/merge_verses.py
@@ -25,7 +24,7 @@ VERSES_PATH = os.path.join(DATA_DIR, "verses.json")
 # chapter_content/ lives next to scripts/, under the project root.
 sys.path.insert(0, BASE_DIR)
 
-GENERATED_CHAPTERS = range(2, 19)
+GENERATED_CHAPTERS = range(1, 19)
 
 DEVANAGARI_DIGITS = str.maketrans("0123456789", "०१२३४५६७८९")
 
@@ -126,30 +125,18 @@ def build_generated_verses(authoritative):
 def main():
     authoritative = load_authoritative()
 
-    with open(VERSES_PATH, encoding="utf-8") as f:
-        existing = json.load(f)
-
-    chapter_one = [v for v in existing if v["chapter"] == 1]
-    if not chapter_one:
-        raise SystemExit("verses.json has no Chapter 1 entries to preserve — refusing to overwrite")
-    chapter_one.sort(key=lambda v: v["verse"])
-
-    generated, problems = build_generated_verses(authoritative)
+    merged, problems = build_generated_verses(authoritative)
     if problems:
         for problem in problems:
             print("ERROR: {}".format(problem))
         raise SystemExit("refusing to write verses.json with {} problem(s)".format(len(problems)))
-
-    merged = chapter_one + generated
 
     with open(VERSES_PATH, "w", encoding="utf-8") as f:
         json.dump(merged, f, ensure_ascii=False, indent=2)
         f.write("\n")
 
     print("Wrote {} verses to {}".format(len(merged), VERSES_PATH))
-    print("  Chapter 1 (preserved): {}".format(len(chapter_one)))
-    print("  Chapters 2-18 (generated): {}".format(len(generated)))
-    for chapter in range(1, 19):
+    for chapter in GENERATED_CHAPTERS:
         count = sum(1 for v in merged if v["chapter"] == chapter)
         print("    ch{:>2}: {:>3} verses".format(chapter, count))
 
