@@ -2,324 +2,331 @@
   {
     "chapter": 1,
     "verse": 1,
-    "sanskrit": "धृतराष्ट्र उवाच ।\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥१॥",
+    "sanskrit": "धृतराष्ट्र उवाच\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥१॥",
     "translation": "Dhritarashtra said: What did the sons of Pandu and my own sons do, O Sanjaya, when they assembled, eager to fight, on the sacred field of Kurukshetra?",
     "explanation": "The Gita opens with a blind king's anxious question. Dhritarashtra's own words betray him — he separates \"my sons\" from \"Pandu's sons,\" revealing the attachment and partiality that will drive the entire tragedy. The battlefield is called dharma-kshetra, the field of righteousness, hinting that this is more than a war — it is a test of conscience."
   },
   {
     "chapter": 1,
     "verse": 2,
-    "sanskrit": "सञ्जय उवाच ।\nदृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।\nआचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥२॥",
+    "sanskrit": "सञ्जय उवाच\nदृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा।\nआचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥२॥",
     "translation": "Sanjaya said: Having observed the Pandava army arrayed for battle, King Duryodhana approached his teacher Drona and spoke these words.",
     "explanation": "The narrative shifts to Duryodhana, whose first act is a calculated one — seeking out his teacher Drona not for guidance, but to boast and stir anxiety about the opposing army. A subtle character study: insecurity dressed as bravado."
   },
   {
     "chapter": 1,
     "verse": 3,
-    "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥३॥",
+    "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम्।\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥३॥",
     "translation": "Behold, O teacher, this great army of the sons of Pandu, arrayed by your own gifted disciple, the son of Drupada.",
     "explanation": "Duryodhana needles Drona with an uncomfortable irony — the army opposing them was organized by Dhrishtadyumna, Drona's own former student. Old loyalties and present enmities tangle from the very first verses."
   },
   {
     "chapter": 1,
     "verse": 4,
-    "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि ।\nयुयुधानो विराटश्च द्रुपदश्च महारथः ॥४॥",
+    "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि।\nयुयुधानो विराटश्च द्रुपदश्च महारथः ॥४॥",
     "translation": "Here are heroes, great archers, equal in battle to Bhima and Arjuna — Yuyudhana, Virata, and the great chariot-warrior Drupada.",
     "explanation": "Duryodhana begins listing the Pandava side's warriors — a roll call meant to sound impressive, but really betraying his own nervousness at the scale of the opposition."
   },
   {
     "chapter": 1,
     "verse": 5,
-    "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् ।\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः ॥५॥",
+    "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान्।\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः ॥५॥",
     "translation": "Dhrishtaketu, Chekitana, the valiant king of Kashi, Purujit, Kuntibhoja, and Shaibya, the best of men.",
     "explanation": "The list of Pandava commanders continues — each name would have carried weight and reputation for the original audience, signaling the seriousness of the force assembled against the Kauravas."
   },
   {
     "chapter": 1,
     "verse": 6,
-    "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् ।\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥६॥",
+    "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान्।\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥६॥",
     "translation": "The valiant Yudhamanyu, the mighty Uttamaujas, the son of Subhadra, and the sons of Draupadi — all of them great chariot-warriors.",
     "explanation": "The roll call closes with Abhimanyu (Subhadra's son) and Draupadi's five sons — the younger generation of the Pandava side, whose presence raises the stakes of the coming war for the entire family line."
   },
   {
     "chapter": 1,
     "verse": 7,
-    "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम ।\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ॥७॥",
+    "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम।\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ॥७॥",
     "translation": "Now hear, O best of the twice-born, of the distinguished ones on our side — the commanders of my army. I name them for your information.",
     "explanation": "Having built up the enemy's strength, Duryodhana pivots to reassure Drona (and himself) by naming his own side's leaders — a commander managing morale before battle."
   },
   {
     "chapter": 1,
     "verse": 8,
-    "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः ।\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥८॥",
+    "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः।\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥८॥",
     "translation": "Yourself, Bhishma, Karna, the ever-victorious Kripa, Ashvatthama, Vikarna, and the son of Somadatta.",
     "explanation": "Duryodhana names his own generals — starting with Drona himself and the towering figure of Bhishma, the two elder statesmen whose loyalty, despite personal reservations about the war, remains with the Kaurava side."
   },
   {
     "chapter": 1,
     "verse": 9,
-    "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः ।\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥९॥",
+    "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः।\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥९॥",
     "translation": "And many other heroes, skilled in various weapons, all experts in warfare, who have given up their lives for my sake.",
     "explanation": "Duryodhana closes his roster with a broader claim — that countless warriors are ready to die for him personally. Telling that he frames their loyalty as owed to him, not to any cause of justice."
   },
   {
     "chapter": 1,
     "verse": 10,
-    "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् ।\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥१०॥",
+    "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम्।\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥१०॥",
     "translation": "Our army, protected by Bhishma, is insufficient, while their army, protected by Bhima, is sufficient.",
     "explanation": "This much-debated verse has puzzled commentators for centuries — Duryodhana seems to admit his own side's limits despite Bhishma's leadership, revealing a private anxiety beneath his public bravado."
   },
   {
     "chapter": 1,
     "verse": 11,
-    "sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिताः ।\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ॥११॥",
+    "sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिताः।\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ॥११॥",
     "translation": "Therefore, all of you, stationed in your respective positions at the entrances of the army divisions, should support Bhishma alone.",
     "explanation": "Duryodhana issues his first tactical order — protect Bhishma at all costs. The old grandsire is treated as the linchpin of the entire Kaurava strategy."
   },
   {
     "chapter": 1,
     "verse": 12,
-    "sanskrit": "तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः ।\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान् ॥१२॥",
+    "sanskrit": "तस्य संजनयन्हर्षं कुरुवृद्धः पितामहः।\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान् ॥१२॥",
     "translation": "Then Bhishma, the powerful grandsire of the Kurus, the eldest of the dynasty, roared like a lion and blew his conch shell loudly, cheering Duryodhana.",
     "explanation": "The first sound of the war — Bhishma's conch, meant to fill Duryodhana with confidence. A moment of theatre before the real fighting starts."
   },
   {
     "chapter": 1,
     "verse": 13,
-    "sanskrit": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः ।\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ॥१३॥",
+    "sanskrit": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः।\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ॥१३॥",
     "translation": "Then conches, kettledrums, tabors, drums, and horns were suddenly sounded together, and the sound became tumultuous.",
     "explanation": "A cascade of instruments erupts across the battlefield — the Gita opens not in silence but in a wall of sound, setting an almost cinematic tone before a single arrow is fired."
   },
   {
     "chapter": 1,
     "verse": 14,
-    "sanskrit": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ ।\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ॥१४॥",
+    "sanskrit": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ।\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ॥१४॥",
     "translation": "Then, seated in a great chariot yoked with white horses, Krishna and Arjuna blew their divine conches.",
     "explanation": "The scene shifts to the other side. Krishna and Arjuna, sharing one magnificent chariot, answer the Kaurava fanfare — the divine paired with the human, a partnership at the heart of the entire Gita."
   },
   {
     "chapter": 1,
     "verse": 15,
-    "sanskrit": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः ।\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ॥१५॥",
+    "sanskrit": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनंजयः।\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ॥१५॥",
     "translation": "Krishna blew his conch Panchajanya, Arjuna blew Devadatta, and Bhima, of terrible deeds, blew the great conch Paundra.",
     "explanation": "Each hero's conch is named individually — a detail that gives even the instruments of war a kind of personality and mythic weight in this tradition."
   },
   {
     "chapter": 1,
     "verse": 16,
-    "sanskrit": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः ।\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ ॥१६॥",
+    "sanskrit": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः।\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ ॥१६॥",
     "translation": "King Yudhishthira, son of Kunti, blew his conch Anantavijaya, and Nakula and Sahadeva blew Sughosha and Manipushpaka.",
     "explanation": "The five Pandava brothers each sound their own conch in turn — a roll call of unity, each brother individually named and honored before the battle begins."
   },
   {
     "chapter": 1,
     "verse": 17,
-    "sanskrit": "काश्यश्च परमेष्वासः शिखण्डी च महारथः ।\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ॥१७॥",
+    "sanskrit": "काश्यश्च परमेष्वासः शिखण्डी च महारथः।\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ॥१७॥",
     "translation": "The great archer, the king of Kashi, the mighty warrior Shikhandi, Dhrishtadyumna, Virata, and the unconquered Satyaki.",
     "explanation": "More key figures on the Pandava side sound their conches — including Shikhandi and Dhrishtadyumna, both of whom will play pivotal roles later in the war's most fateful moments."
   },
   {
     "chapter": 1,
     "verse": 18,
-    "sanskrit": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते ।\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक् ॥१८॥",
+    "sanskrit": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते।\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक् ॥१८॥",
     "translation": "Drupada, the sons of Draupadi, and the mighty-armed son of Subhadra all blew their conches, each one separately, O ruler of the earth.",
     "explanation": "The list of conches closes — Sanjaya narrates all this to the blind king Dhritarashtra, a reminder throughout Chapter 1 that this whole scene is being relayed secondhand to a father anxious about his sons' fate."
   },
   {
     "chapter": 1,
     "verse": 19,
-    "sanskrit": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् ।\nनभश्च पृथिवीं चैव तुमुलोऽभ्यनुनादयन् ॥१९॥",
+    "sanskrit": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत्।\nनभश्च पृथिवीं चैव तुमुलो व्यनुनादयन् ॥१९॥",
     "translation": "That tumultuous sound, echoing through the sky and the earth, shattered the hearts of Dhritarashtra's sons.",
     "explanation": "The combined blast of the Pandava conches has a visceral effect on the Kaurava side — a foreshadowing, perhaps, of the fear and doom that awaits them despite their earlier bravado."
   },
   {
     "chapter": 1,
     "verse": 20,
-    "sanskrit": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान्कपिध्वजः ।\nप्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः ।\nहृषीकेशं तदा वाक्यमिदमाह महीपते ॥२०॥",
+    "sanskrit": "अथ व्यवस्थितान् दृष्ट्वा धार्तराष्ट्रान्कपिध्वजः।\nप्रवृत्ते शस्त्रसंपाते धनुरुद्यम्य पाण्डवः ॥२०॥",
     "translation": "Then, seeing Dhritarashtra's sons arrayed for battle, as the weapons were about to clash, Arjuna, whose banner bore Hanuman, took up his bow and spoke these words to Krishna, O king.",
     "explanation": "Arjuna, marked by the emblem of Hanuman on his flag, raises his bow — the moment right before speech, right before the crisis that will unfold across the rest of the chapter."
   },
   {
     "chapter": 1,
     "verse": 21,
-    "sanskrit": "अर्जुन उवाच ।\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ।\nयावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् ॥२१॥",
+    "sanskrit": "अर्जुन उवाच\nहृषीकेशं तदा वाक्यमिदमाह महीपते।\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ॥२१॥",
     "translation": "Arjuna said: O Krishna, place my chariot between the two armies, so that I may see those assembled here, eager for battle.",
     "explanation": "Arjuna's very first request to Krishna is simple but momentous — he wants to see, clearly and directly, exactly who stands opposed to him. The entire Gita will unfold from this single moment of looking."
   },
   {
     "chapter": 1,
     "verse": 22,
-    "sanskrit": "कैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे ॥२२॥",
+    "sanskrit": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान्।\nकैर्मया सह योद्धव्यमस्मिन्रणसमुद्यमे ॥२२॥",
     "translation": "...with whom I must fight in this great combat.",
     "explanation": "The continuation of Arjuna's request — he wants to know, before the battle begins, precisely whose lives are about to be weighed against his own decision to fight."
   },
   {
     "chapter": 1,
     "verse": 23,
-    "sanskrit": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः ।\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ॥२३॥",
+    "sanskrit": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः।\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ॥२३॥",
     "translation": "Let me see those who have gathered here to fight, intending to please the evil-minded son of Dhritarashtra in this war.",
     "explanation": "Arjuna already names Duryodhana as 'evil-minded' — his moral judgment of the cause is formed before he even looks upon the army. What follows will complicate that judgment considerably."
   },
   {
     "chapter": 1,
     "verse": 24,
-    "sanskrit": "सञ्जय उवाच ।\nएवमुक्तो हृषीकेशो गुडाकेशेन भारत ।\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ॥२४॥",
+    "sanskrit": "संजय उवाच\nएवमुक्तो हृषीकेशो गुडाकेशेन भारत।\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ॥२४॥",
     "translation": "Sanjaya said: Thus addressed by Arjuna, Krishna drove that magnificent chariot between the two armies, O descendant of Bharata.",
     "explanation": "Krishna simply complies, without objection or comment — the first of many moments in the Gita where he lets Arjuna arrive at his own crisis before intervening with teaching."
   },
   {
     "chapter": 1,
     "verse": 25,
-    "sanskrit": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् ।\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ॥२५॥",
+    "sanskrit": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम्।\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ॥२५॥",
     "translation": "In front of Bhishma, Drona, and all the rulers of the earth, Krishna said: O Partha, behold these assembled Kurus.",
     "explanation": "Krishna's words are almost clinically simple — \"behold these Kurus\" — a plain instruction that will trigger an overwhelming emotional collapse in Arjuna over the following verses."
   },
   {
     "chapter": 1,
     "verse": 26,
-    "sanskrit": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् ।\nआचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा ।\nश्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि ॥२६॥",
+    "sanskrit": "तत्रापश्यत्स्थितान्पार्थः पितृ़नथ पितामहान्।\nआचार्यान्मातुलान्भ्रातृ़न्पुत्रान्पौत्रान्सखींस्तथा ॥२६॥",
     "translation": "There Arjuna saw, standing in both armies, fathers, grandfathers, teachers, uncles, brothers, sons, grandsons, friends, fathers-in-law, and well-wishers.",
     "explanation": "The scene pulls back to reveal the full horror of Arjuna's situation — this isn't a war against strangers, but against nearly every close relation in his life, on both sides of the field."
   },
   {
     "chapter": 1,
     "verse": 27,
-    "sanskrit": "तान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् ।\nकृपया परयाविष्टो विषीदन्निदमब्रवीत् ॥२७॥",
+    "sanskrit": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि।\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् ॥२७॥",
     "translation": "Seeing all these kinsmen arrayed before him, Arjuna, the son of Kunti, overwhelmed with deep compassion, spoke these sorrowful words.",
     "explanation": "The word used here — kripa, compassion — is significant. Arjuna's crisis isn't cowardice; it springs from an excess of love and pity for people he's about to be asked to kill."
   },
   {
     "chapter": 1,
     "verse": 28,
-    "sanskrit": "अर्जुन उवाच ।\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ।\nसीदन्ति मम गात्राणि मुखं च परिशुष्यति ॥२८॥",
-    "translation": "Arjuna said: O Krishna, seeing my own kinsmen standing here, eager to fight, my limbs give way and my mouth goes dry.",
-    "explanation": "Arjuna's grief is described in strikingly physical terms — this isn't abstract philosophizing but a full bodily collapse, the kind any of us might recognize from real moments of dread and heartbreak."
+    "sanskrit": "अर्जुन उवाच\nकृपया परयाऽऽविष्टो विषीदन्निदमब्रवीत्।\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ॥२८॥",
+    "translation": "Arjuna said: O Krishna, seeing these my own people standing here, eager for battle...",
+    "explanation": "The sentence breaks off mid-thought, and that is the point — Arjuna cannot finish it. What he sees before him is not an enemy army but a family reunion armed for slaughter."
   },
   {
     "chapter": 1,
     "verse": 29,
-    "sanskrit": "वेपथुश्च शरीरे मे रोमहर्षश्च जायते ।\nगाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते ॥२९॥",
-    "translation": "My body trembles, my hair stands on end, my bow Gandiva slips from my hand, and my skin burns.",
-    "explanation": "The physical symptoms escalate — trembling, goosebumps, a burning sensation. Arjuna, one of history's greatest warriors, is described experiencing what today we'd easily recognize as an acute panic response."
+    "sanskrit": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति।\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते ॥२९॥",
+    "translation": "...my limbs give way, my mouth goes dry, my body trembles, and my hair stands on end.",
+    "explanation": "Four symptoms in a single line, and every one of them involuntary. Arjuna, among the finest warriors alive, is describing what we would now recognize at once as a panic response."
   },
   {
     "chapter": 1,
     "verse": 30,
-    "sanskrit": "न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ।\nनिमित्तानि च पश्यामि विपरीतानि केशव ॥३०॥",
-    "translation": "I am unable to stand steady, my mind seems to be reeling, and I see only adverse omens, O Keshava.",
-    "explanation": "Arjuna's disorientation deepens into something like vertigo — a mind spinning, unable to find solid ground, seeing doom in every direction."
+    "sanskrit": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते।\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ॥३०॥",
+    "translation": "The Gandiva slips from my hand, my skin burns all over, I am unable to stand steady, and my mind seems to reel.",
+    "explanation": "The great bow falling from his grip is the detail that matters — Gandiva is a divine weapon and his whole identity as an archer. His body is surrendering before he has decided anything."
   },
   {
     "chapter": 1,
     "verse": 31,
-    "sanskrit": "न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ।\nन काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च ॥३१॥",
-    "translation": "I see no good in killing my own kinsmen in this battle. I do not desire victory, Krishna, nor kingdom, nor pleasures.",
-    "explanation": "Arjuna's conclusion crystallizes: whatever the political stakes, no personal gain — victory, kingdom, or comfort — seems worth this cost to him."
+    "sanskrit": "निमित्तानि च पश्यामि विपरीतानि केशव।\nन च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ॥३१॥",
+    "translation": "And I see adverse omens, Keshava. I foresee no good in killing my own people in battle.",
+    "explanation": "Arjuna reaches for omens, the standard way of reading a battlefield, and finds them all against him. But notice the second line — he has already begun arguing from conscience rather than signs."
   },
   {
     "chapter": 1,
     "verse": 32,
-    "sanskrit": "किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ।\nयेषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च ॥३२॥",
-    "translation": "Of what use to us are kingdom, enjoyment, or even life itself, Govinda, when it is for the sake of others that we would desire these things?",
-    "explanation": "Arjuna begins to spell out the paradox at the heart of his despair: kingdom and pleasure only matter because of the people he'd share them with."
+    "sanskrit": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च।\nकिं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ॥३२॥",
+    "translation": "I desire neither victory, Krishna, nor kingdom, nor pleasures. What is kingdom to us, Govinda, what enjoyments, or even life itself?",
+    "explanation": "Arjuna renounces the war's entire prize list in one breath, then goes further and questions the value of living at all. The escalation from kingdom to life happens very fast."
   },
   {
     "chapter": 1,
     "verse": 33,
-    "sanskrit": "त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ।\nआचार्याः पितरः पुत्रास्तथैव च पितामहाः ॥३३॥",
-    "translation": "Those very people — teachers, fathers, sons, and grandfathers — stand here in battle, ready to give up their lives and wealth.",
-    "explanation": "The list of relations Arjuna would have to fight grows even more specific and painful — not abstract 'enemies,' but teachers, fathers, sons."
+    "sanskrit": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च।\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ॥३३॥",
+    "translation": "Those for whose sake we desire kingdom, enjoyments, and pleasures stand here in battle, having given up life and wealth.",
+    "explanation": "The paradox at the centre of his despair, stated plainly. The people who would make a kingdom worth having are the very ones he must destroy in order to win it."
   },
   {
     "chapter": 1,
     "verse": 34,
-    "sanskrit": "मातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा ।\nएतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन ॥३४॥",
-    "translation": "Uncles, fathers-in-law, grandsons, brothers-in-law, and other kin — I have no wish to kill them, even if they kill me, O Madhusudana.",
-    "explanation": "Arjuna reaches the full weight of his paradox: he would rather die at their hands than take theirs, even in self-defense."
+    "sanskrit": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः।\nमातुलाः श्चशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा ॥३४॥",
+    "translation": "Teachers, fathers, sons, and grandfathers; uncles, fathers-in-law, grandsons, brothers-in-law, and kinsmen as well.",
+    "explanation": "A list with no verb in it, just relationships — nine categories of family named one after another. Arjuna is not arguing here so much as reading out the roll of who is present."
   },
   {
     "chapter": 1,
     "verse": 35,
-    "sanskrit": "अपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ।\nनिहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन ॥३५॥",
-    "translation": "What satisfaction could we have, Janardana, in killing the sons of Dhritarashtra, even for the sake of dominion over the three worlds, let alone this earth?",
-    "explanation": "Arjuna raises the emotional stakes to their maximum — even the grandest possible prize, rulership of the entire universe, wouldn't justify this act to him."
+    "sanskrit": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन।\nअपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ॥३५॥",
+    "translation": "I do not wish to kill these, Madhusudana, even if they should kill me — not for the rulership of the three worlds, how much less for the earth.",
+    "explanation": "The offer he refuses keeps growing: not for this kingdom, not even for all three worlds. And he includes the case where they kill him first, which rules out self-defence as an answer."
   },
   {
     "chapter": 1,
     "verse": 36,
-    "sanskrit": "पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ।\nतस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्सबान्धवान् ।\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव ॥३६॥",
-    "translation": "Only sin would come to us by killing these aggressors. Therefore we should not kill the sons of Dhritarashtra and our kinsmen. How could we be happy, Madhava, by killing our own family?",
-    "explanation": "Arjuna anticipates and rejects the argument that self-defense might justify the killing — even calling the enemy 'aggressors,' he concludes no resulting happiness could outweigh the sin of killing one's own family."
+    "sanskrit": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन।\nपापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ॥३६॥",
+    "translation": "What pleasure could be ours, Janardana, from killing the sons of Dhritarashtra? Only sin would come upon us by slaying these aggressors.",
+    "explanation": "Arjuna uses the word atatayin, aggressor — the legal term for someone whose killing is permitted. He grants his enemies that status and still concludes the act would stain him."
   },
   {
     "chapter": 1,
     "verse": 37,
-    "sanskrit": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः ।\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ॥३७॥",
-    "translation": "Even if they, their minds overpowered by greed, see no wrong in destroying the family or in treachery toward friends...",
-    "explanation": "Arjuna begins to draw a moral distinction between himself and his opponents — conceding that greed has blinded the other side to the consequences of what's about to happen."
+    "sanskrit": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान्।\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव ॥३७॥",
+    "translation": "Therefore we ought not to kill the sons of Dhritarashtra, our own kinsmen. For how could we be happy, Madhava, having killed our own people?",
+    "explanation": "The conclusion of his case, and it rests on happiness rather than on law. Arjuna asks what kind of life follows a victory like this, which no rule about permitted killing can answer."
   },
   {
     "chapter": 1,
     "verse": 38,
-    "sanskrit": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् ।\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ॥३८॥",
-    "translation": "...why should we, who clearly see this wrong, not turn away from such sin, O Janardana?",
-    "explanation": "The conclusion of Arjuna's argument: clear-sightedness itself, he insists, creates a responsibility to refuse wrongdoing — even if the other side cannot see it."
+    "sanskrit": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः।\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ॥३८॥",
+    "translation": "Even if these men, their minds overpowered by greed, see no wrong in the destruction of a family and no crime in the betrayal of friends...",
+    "explanation": "Arjuna concedes that his opponents are blinded rather than wicked, which is generous of him. The concession also sets up his real argument: that seeing clearly creates an obligation."
   },
   {
     "chapter": 1,
     "verse": 39,
-    "sanskrit": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः ।\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ॥३९॥",
-    "translation": "When a family is destroyed, its ancient traditions perish; and when tradition is lost, unrighteousness overtakes the entire family.",
-    "explanation": "Arjuna's argument widens from personal grief to a broader social concern — the collapse of a family doesn't just mean individual deaths, but the unraveling of an entire moral and cultural fabric."
+    "sanskrit": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम्।\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ॥३९॥",
+    "translation": "...why should we not know enough to turn back from this sin, Janardana — we who do see the wrong in destroying a family?",
+    "explanation": "The argument lands. Knowledge, for Arjuna, is not neutral; if you can see the harm and the other side cannot, the responsibility for stopping falls entirely on you."
   },
   {
     "chapter": 1,
     "verse": 40,
-    "sanskrit": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः ।\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ॥४०॥",
-    "translation": "When unrighteousness prevails, Krishna, the women of the family are affected; and from that, social confusion arises.",
-    "explanation": "This verse reflects the social assumptions of its ancient context rather than a timeless ethical claim. Arjuna's broader point is his fear that war's destruction ripples outward into the collapse of an entire social order, not just onto the battlefield."
+    "sanskrit": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः।\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ॥४०॥",
+    "translation": "With the destruction of a family, its eternal traditions perish; and when tradition is lost, lawlessness overwhelms the whole family.",
+    "explanation": "Arjuna's grief widens here from people to institutions. What worries him is not only who dies today but the slow unravelling that follows, which no one will be left to notice."
   },
   {
     "chapter": 1,
     "verse": 41,
-    "sanskrit": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च ।\nपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः ॥४१॥",
-    "translation": "Such confusion leads to ruin for the destroyers of the family and for the family itself; the ancestors fall, deprived of ritual offerings.",
-    "explanation": "Arjuna invokes the ancient belief that ancestral spirits depend on ritual offerings from living descendants — a family's collapse, in this view, harms not just the living but generations already passed."
+    "sanskrit": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः।\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ॥४१॥",
+    "translation": "When lawlessness prevails, Krishna, the women of the family are corrupted; and when the women are corrupted, Varshneya, confusion of social order arises.",
+    "explanation": "This verse rests on the social assumptions of its own period rather than on any timeless claim. Arjuna's underlying fear is that a war's damage does not stop at the battlefield's edge."
   },
   {
     "chapter": 1,
     "verse": 42,
-    "sanskrit": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः ।\nउत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ॥४२॥",
-    "translation": "By these faults of the destroyers of the family, the eternal traditions of community and family are destroyed.",
-    "explanation": "Arjuna continues building his case for why the war would be catastrophic beyond the immediate deaths — an entire inherited social and moral order, in his view, hangs in the balance."
+    "sanskrit": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च।\nपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः ॥४२॥",
+    "translation": "That confusion leads only to hell for the destroyers of the family and for the family itself. Their ancestors fall, deprived of the offerings of rice and water.",
+    "explanation": "Arjuna invokes the ancient obligation of the living to feed the dead. In the picture he draws, the war reaches backward as well as forward, harming generations already gone."
   },
   {
     "chapter": 1,
     "verse": 43,
-    "sanskrit": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन ।\nनरके नियतं वासो भवतीत्यनुशुश्रुम ॥४३॥",
-    "translation": "We have heard, O Janardana, that people whose family traditions are destroyed are destined to dwell in suffering.",
-    "explanation": "Arjuna appeals to received wisdom and tradition itself as evidence for his position — this isn't just his own opinion, he says, but something 'we have heard,' grounding his argument in cultural authority."
+    "sanskrit": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः।\nउत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ॥४३॥",
+    "translation": "By these faults of the destroyers of the family, which produce confusion of social order, the eternal duties of community and of family are wiped out.",
+    "explanation": "The chain of consequences he has been building closes here. Each link seemed small on its own; together they add up to the erasure of everything that told these people who they were."
   },
   {
     "chapter": 1,
     "verse": 44,
-    "sanskrit": "अहो बत महत्पापं कर्तुं व्यवसिता वयम् ।\nयद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ॥४४॥",
-    "translation": "Alas, what a great sin we are resolved to commit, that out of greed for royal pleasure we are prepared to kill our own kinsmen!",
-    "explanation": "Arjuna's despair peaks in open self-reproach — notice he includes himself in the collective guilt ('we are resolved'), even though it is the Kauravas, not the Pandavas, who initiated hostilities."
+    "sanskrit": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन।\nनरकेऽनियतं वासो भवतीत्यनुशुश्रुम ॥४४॥",
+    "translation": "We have heard, Janardana, that a lasting dwelling in hell awaits those whose family duties have been destroyed.",
+    "explanation": "Note anushushruma — we have heard. Arjuna shifts from his own reasoning to inherited authority, borrowing the weight of tradition just as his own argument reaches its limit."
   },
   {
     "chapter": 1,
     "verse": 45,
-    "sanskrit": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः ।\nधार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् ॥४५॥",
-    "translation": "If the armed sons of Dhritarashtra should kill me, unarmed and unresisting, in battle, that would be better for me.",
-    "explanation": "Arjuna reaches the furthest point of his despair — he would rather die passively than commit the act of killing his relatives, revealing just how completely his resolve to fight has collapsed."
+    "sanskrit": "अहो बत महत्पापं कर्तुं व्यवसिता वयम्।\nयद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ॥४५॥",
+    "translation": "Alas, we are resolved to commit a great sin, in that out of greed for the pleasures of a kingdom we are prepared to kill our own people.",
+    "explanation": "The self-accusation is total, and he includes himself in it. Nothing in the verse acknowledges that the Kauravas began this war — in his despair Arjuna has taken on the whole guilt."
   },
   {
     "chapter": 1,
     "verse": 46,
-    "sanskrit": "सञ्जय उवाच ।\nएवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत् ।\nविसृज्य सशरं चापं शोकसंविग्नमानसः ॥४६॥",
-    "translation": "Sanjaya said: Having spoken thus on the battlefield, Arjuna cast aside his bow and arrows and sat down on his chariot, his mind overwhelmed with grief.",
-    "explanation": "Chapter 1 ends not with resolution but total collapse — Arjuna literally lays down his weapons and sits in despair. This is the emotional low point the entire rest of the Gita will respond to, starting in Chapter 2."
+    "sanskrit": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः।\nधार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् ॥४६॥",
+    "translation": "If the armed sons of Dhritarashtra should kill me in battle, unresisting and unarmed, that would be better for me.",
+    "explanation": "The furthest point his reasoning can reach: he would rather be killed than kill. It is not cowardice — he is choosing the one outcome in which nobody pays but him."
+  },
+  {
+    "chapter": 1,
+    "verse": 47,
+    "sanskrit": "सञ्जय उवाच\nएवमुक्त्वाऽर्जुनः संख्ये रथोपस्थ उपाविशत्।\nविसृज्य सशरं चापं शोकसंविग्नमानसः ॥४७॥",
+    "translation": "Sanjaya said: Having spoken thus on the field of battle, Arjuna sank down on the seat of his chariot, casting away his bow and arrows, his mind distressed with grief.",
+    "explanation": "Chapter 1 ends not in resolution but in collapse. Arjuna puts down his weapons and sits, and this is the low point that everything Krishna says from here onward is answering."
   },
   {
     "chapter": 2,
