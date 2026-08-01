@@ -2,7 +2,8 @@ name: Daily Gita Post
 
 on:
   schedule:
-    - cron: "30 3 * * *"
+    - cron: "30 3 * * *"   # 09:00 AM IST
+    - cron: "30 12 * * *"  # 06:00 PM IST
   workflow_dispatch: {}
 
 permissions:
