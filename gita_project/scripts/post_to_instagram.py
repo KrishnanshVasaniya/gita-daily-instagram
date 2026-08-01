@@ -92,8 +92,8 @@ def main():
     with open(META_PATH, encoding="utf-8") as f:
         meta = json.load(f)
 
-    url1 = raw_url(repo, branch, meta["slide1_file"])
-    url2 = raw_url(repo, branch, meta["slide2_file"])
+    url1 = raw_url(repo, branch, "gita_project/" + meta["slide1_file"])
+    url2 = raw_url(repo, branch, "gita_project/" + meta["slide2_file"])
     print(f"Slide 1 URL: {url1}")
     print(f"Slide 2 URL: {url2}")
 
